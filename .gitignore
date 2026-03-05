@@ -2,3 +2,6 @@
 
 venv/
 
+Backend/__pycache__/
+Backend/Auth/auth_system.db
+Backend/Auth/__pycache__/
